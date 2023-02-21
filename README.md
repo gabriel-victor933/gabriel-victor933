@@ -21,3 +21,8 @@
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)]()
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+
+
+## Principais Projetos: 
+ - Projeto jogo da forca com React: https://github.com/gabriel-victor933/projeto8-jogoforca [Deploy](https://projeto8-jogoforca-eight-gilt.vercel.app/) <br />
+ - Projeto Breakout game: https://github.com/gabriel-victor933/projeto8-jogoforca [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
