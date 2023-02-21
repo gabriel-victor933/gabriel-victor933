@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel 😊
 
-📫 How to reach me: 
+#### 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1677002423) gabrielvictor933@usp.br
 
@@ -8,9 +8,9 @@
 
 
 <div>
- <img align=center src= "https://github-readme-stats.vercel.app/api?username=gabriel-victor933&show_icons=true&theme=radical">
+ <img align=center src= "https://github-readme-stats.vercel.app/api?username=gabriel-victor933&show_icons=true&theme=radical&card_width=450">
  <br />
- <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-victor933&layout=compact&theme=radical">
+ <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-victor933&layout=compact&theme=radical&card_width=400">
 </div>
 
 
