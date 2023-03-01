@@ -31,4 +31,4 @@
  - Projeto jogo da forca com React: https://github.com/gabriel-victor933/projeto8-jogoforca [Deploy](https://projeto8-jogoforca-eight-gilt.vercel.app/) <br />
  - Projeto Breakout game JS vanilla: https://github.com/gabriel-victor933/projeto_breakout_game [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
  - Projeto Landing Page com bootstrap: https://github.com/gabriel-victor933/landing_page [Deploy](https://landing-page-black-three.vercel.app/)
- - Projeto App de flashcards com React: [Deploy](projeto9-zaprecall-jx012zh2b-gabriel-victor933.vercel.app)
+ - Projeto App de flashcards com React: https://github.com/gabriel-victor933/projeto9-zaprecall [Deploy](projeto9-zaprecall-jx012zh2b-gabriel-victor933.vercel.app)
