@@ -28,8 +28,8 @@
 
 
 ## Principais Projetos: 
- - Projeto jogo da forca com React: https://github.com/gabriel-victor933/projeto8-jogoforca [Deploy](https://projeto8-jogoforca-eight-gilt.vercel.app/) <br />
- - Projeto Breakout game JS vanilla: https://github.com/gabriel-victor933/projeto_breakout_game [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
- - Projeto Landing Page com bootstrap: https://github.com/gabriel-victor933/landing_page [Deploy](https://landing-page-black-three.vercel.app/)
- - Projeto App de controle de habitos TrackIt: https://github.com/gabriel-victor933/projeto11-Trackit [Deploy](https://projeto11-trackit-kh1siiwh6-gabriel-victor933.vercel.app/)
+ - Projeto Cineflex: [Repository](https://github.com/gabriel-victor933/projeto10-cineflex) [Deploy](https://projeto10-cineflex-hzxs95re6-gabriel-victor933.vercel.app/)<br />
+ - Projeto Breakout game JS vanilla: [Repository](https://github.com/gabriel-victor933/projeto_breakout_game) [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
+ - Projeto Landing Page com bootstrap: [Repository](https://github.com/gabriel-victor933/landing_page) [Deploy](https://landing-page-black-three.vercel.app/)
+ - Projeto App de controle de habitos TrackIt: [Repository](https://github.com/gabriel-victor933/projeto11-Trackit) [Deploy](https://projeto11-trackit-kh1siiwh6-gabriel-victor933.vercel.app/)
  
