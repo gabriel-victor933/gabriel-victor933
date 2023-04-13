@@ -4,8 +4,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1677002423) gabrielvictor933@usp.br
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](GabrielSantana#2120) GabrielSantana#2120
-
 
 <div>
  <img align=center src= "https://github-readme-stats.vercel.app/api?username=gabriel-victor933&show_icons=true&theme=radical&card_width=450">
