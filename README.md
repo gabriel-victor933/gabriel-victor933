@@ -32,9 +32,8 @@
 
 
 ## Principais Projetos: 
- - Projeto Cineflex: [Repository](https://github.com/gabriel-victor933/projeto10-cineflex) [Deploy](https://projeto10-cineflex-hzxs95re6-gabriel-victor933.vercel.app/)<br />
  - Projeto Breakout game JS vanilla: [Repository](https://github.com/gabriel-victor933/projeto_breakout_game) [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
  - Projeto Landing Page com bootstrap: [Repository](https://github.com/gabriel-victor933/landing_page) [Deploy](https://landing-page-black-three.vercel.app/)
- - Projeto App fullstack de controle de fluxo de caixa: [Repository front](https://github.com/gabriel-victor933/projeto14-mywallet-front) [Repository back](https://github.com/gabriel-victor933/projeto14-mywallet-back) [Deploy](https://projeto14-mywallet-front-eosin-nine.vercel.app/)
- - Projeto Meu time - App que mostra estatisticas de varios times de futebol: [Repository](https://github.com/gabriel-victor933/projeto-meu-time) [Deploy](https://projeto-meu-time.vercel.app/)
+ - Projeto App fullstack de controle de fluxo de caixa: [Repository front](https://github.com/gabriel-victor933/projeto14-mywallet-front) [Repository back](https://github.com/gabriel-victor933/projeto14-mywallet-back) [Deploy](https://projeto14-mywallet-front-eosin-nine.vercel.app/) 
+ - Projeto Fullstack rede social FakeBook - [Repository front](https://github.com/gabriel-victor933/projeto18-freela-front) [Repository back](https://github.com/gabriel-victor933/projeto18-freela-back) [deploy](https://projeto18-freela-front-7r1zsixk7-gabriel-victor933.vercel.app/)
  
