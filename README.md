@@ -3,6 +3,7 @@
 #### 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1677002423) gabrielvictor933@usp.br
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 
 <div>
@@ -32,8 +33,6 @@
 
 
 ## Principais Projetos: 
- - Projeto Breakout game JS vanilla: [Repository](https://github.com/gabriel-victor933/projeto_breakout_game) [Deploy](https://gabriel-victor933.github.io/projeto_breakout_game/) <br />
- - Projeto Landing Page com bootstrap: [Repository](https://github.com/gabriel-victor933/landing_page) [Deploy](https://landing-page-black-three.vercel.app/)
- - Projeto App fullstack de controle de fluxo de caixa: [Repository front](https://github.com/gabriel-victor933/projeto14-mywallet-front) [Repository back](https://github.com/gabriel-victor933/projeto14-mywallet-back) [Deploy](https://projeto14-mywallet-front-eosin-nine.vercel.app/) 
+- Projeto App fullstack de controle de fluxo de caixa: [Repository front](https://github.com/gabriel-victor933/projeto14-mywallet-front) [Repository back](https://github.com/gabriel-victor933/projeto14-mywallet-back) [Deploy](https://projeto14-mywallet-front-eosin-nine.vercel.app/) 
  - Projeto Fullstack rede social FakeBook - [Repository front](https://github.com/gabriel-victor933/projeto18-freela-front) [Repository back](https://github.com/gabriel-victor933/projeto18-freela-back) [deploy](https://projeto18-freela-front-7r1zsixk7-gabriel-victor933.vercel.app/)
  
