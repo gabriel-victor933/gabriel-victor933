@@ -1,5 +1,5 @@
 ### Olá, eu sou o Gabriel 😊...
-Eu sou um Desenvolvedor fullstack com experiência nas seguintes tecnologias: React,NodeJs, Typescript e postgresql.
+Eu sou um Desenvolvedor fullstack com experiência nas seguintes tecnologias: React,NodeJs, Typescript, Postgresql, MongoDb etc.
 Atualmenta eu estou me aprofundando em C# e o framework .NET. 
 #### 📫 How to reach me: 
 
