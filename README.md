@@ -1,5 +1,6 @@
-### Olá, eu sou o Gabriel 😊
-
+### Olá, eu sou o Gabriel 😊...
+Eu sou um Desenvolvedor fullstack com experiencias nas seguintes tecnologias: React,NodeJs, Typescript e postgresql.
+Atualmenta eu estou me aprofundando em C# e o framework .NET. 
 #### 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1677002423) gabrielvictor933@usp.br
