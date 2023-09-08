@@ -1,6 +1,8 @@
 ### Olá, eu sou o Gabriel 😊...
-Eu sou um Desenvolvedor fullstack com experiência nas seguintes tecnologias: React,NodeJs, Typescript, Postgresql, MongoDb etc.
-Atualmenta eu estou me aprofundando em C# e o framework .NET. 
+- Eu sou um Desenvolvedor fullstack com experiência nas seguintes tecnologias: React,NodeJs, Typescript, Postgresql, MongoDb etc.
+- Atualmenta eu estou me aprofundando em C# e o framework .NET.
+- comecei a programar nos meus primeiros anos de faculdade trabalhando com microcontroladores desde então nunca mais parei.
+
 #### 📫 How to reach me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1677002423) gabrielvictor933@usp.br
