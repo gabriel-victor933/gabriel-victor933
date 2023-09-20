@@ -37,7 +37,7 @@
 
 
 ## Principais Projetos: 
-- Projeto App fullstack de controle de fluxo de caixa: [Repository front](https://github.com/gabriel-victor933/projeto14-mywallet-front) [Repository back](https://github.com/gabriel-victor933/projeto14-mywallet-back) 
- - Projeto Fullstack rede social FakeBook - [Repository front](https://github.com/gabriel-victor933/projeto18-freela-front) [Repository back](https://github.com/gabriel-victor933/projeto18-freela-back) 
+- Projeto App fullstack de controle de fluxo de caixa: [Repository](https://github.com/gabriel-victor933/projeto14-mywallet-front) 
+ - Projeto Fullstack rede social FakeBook - [Repository](https://github.com/gabriel-victor933/projeto18-freela-front)
  - Projeto Social Postify -Aplicativo para gerenciamento de senhas - [Repository back](https://github.com/gabriel-victor933/projeto23-drivenpass-nest) 
  
