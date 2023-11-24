@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Santana 😊...
 - Eu sou um Desenvolvedor fullstack com experiência nas seguintes tecnologias: React,NodeJs, Typescript, Postgresql, MongoDb, Jest, etc.
-- Atualmenta eu estou me aprofundando em C# e o framework .NET.
+- Atualmenta eu estou me aprofundando em Java e o framework Springboot e também em React Native.
 - comecei a programar nos meus primeiros anos de faculdade trabalhando com microcontroladores, desde então nunca mais parei.
 
 #### 📫 How to reach me: 
