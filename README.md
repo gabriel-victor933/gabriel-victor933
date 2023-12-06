@@ -39,5 +39,6 @@
 ## Principais Projetos: 
 - Projeto App fullstack de controle de fluxo de caixa: [Repository](https://github.com/gabriel-victor933/projeto14-mywallet-front) 
  - Projeto Fullstack encurtador de URL - [Repository](https://github.com/gabriel-victor933/projeto17-shortly-front)
- - Projeto Social Postify -Aplicativo para gerenciamento de senhas - [Repository back](https://github.com/gabriel-victor933/projeto23-drivenpass-nest) 
+ - Projeto Social Postify -Aplicativo para gerenciamento de senhas - [Repository back](https://github.com/gabriel-victor933/projeto23-drivenpass-nest)
+ - Projeto Quer Apostar Quanto - API para casa de apostas - [Repository back]([https://github.com/gabriel-victor933/projeto23-drivenpass-nest](https://github.com/gabriel-victor933/quer_apostar_quanto)https://github.com/gabriel-victor933/quer_apostar_quanto)
  
