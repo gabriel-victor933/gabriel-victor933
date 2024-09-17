@@ -10,17 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) in/gabriel-santana12/
 
 
-<div>
- <img align=center src= "https://github-readme-stats.vercel.app/api?username=gabriel-victor933&show_icons=true&theme=radical&card_width=450">
- <br />
- <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-victor933&layout=compact&theme=radical&card_width=400">
- <br />
- <img align="center" src= "https://streak-stats.demolab.com?user=gabriel-victor933&theme=radical">
-</div>
-
-
-
-
 ## Tecnologias: 
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
