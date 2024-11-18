@@ -31,5 +31,5 @@
  - Projeto Social Postify -Aplicativo para gerenciamento de senhas - [Repository back](https://github.com/gabriel-victor933/projeto23-drivenpass-nest)
  - Projeto Quer Apostar Quanto - API para casa de apostas - [Repository back](https://github.com/gabriel-victor933/quer_apostar_quanto)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel-victor933)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-victor933&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
  
